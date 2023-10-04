@@ -1,5 +1,9 @@
-👻 **Found Snapchat**
-Fouad Mod SC or more often referred to as FMSC is a snaphat-like application that has been modified in such a way that it has more complete features.
+<div align="center"> 
+
+ **Found Snapchat**
+
+<sup>Fouad Mod SC or more often referred to as FMSC is a snaphat-like application that has been modified in such a way that it has more complete features. 
+</sup></div>
 
 
 💎 **EXCLUSIVE Features**
@@ -30,3 +34,8 @@ See the remaining time for the streak to expire exactly 🕐
 - 🐦 Twitter: [@FouadMods](http://Twitter.fouadmods.com)
 - 🌐 Telegram(Channel): [@FouadMODS](https://t.me/FouadMODS)
 - 🌐 Telegram(Group): [@FMMODS](https://t.me/FMMODS)
+
+
+<div align="center">
+
+[FMSnapchat](https://github.com/Shikimoriix/FMSnapchat) is licensed under the [GPL-v3.0](https://github.com/Shikimoriix/FMSnapchat/blob/main/LICENSE)
