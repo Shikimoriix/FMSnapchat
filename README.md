@@ -1,13 +1,5 @@
-
-
-<div align="centra">
-   
-![BG](https://graph.org/file/62ae97917b6728ed0e5fc.jpg)
-
-</div>
-
 👻 **Found Snapchat**
-
+Fouad Mod SC or more often referred to as FMSC is a snaphat-like application that has been modified in such a way that it has more complete features.
 
 
 💎 **EXCLUSIVE Features**
