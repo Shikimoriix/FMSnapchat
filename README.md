@@ -27,6 +27,6 @@ See the remaining time for the streak to expire exactly 🕐
 </div>
  
 🔰 **Stay Connected With Us**
-- 🐦 Twitter: Twitter.fouadmods.com
-- 🌐 Telegram(Channel): @FouadMODS
-- 🌐 Telegram(Group): @FMMODS
+- 🐦 Twitter: [@FouadMods](http://Twitter.fouadmods.com)
+- 🌐 Telegram(Channel): [@FouadMODS](https://t.me/FouadMODS)
+- 🌐 Telegram(Group): [@FMMODS](https://t.me/FMMODS)
